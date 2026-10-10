@@ -1,0 +1,12 @@
+# Build output (run.sh recreates it)
+out/
+*.class
+
+# OS / editor
+.DS_Store
+.idea/
+*.iml
+.vscode/
+
+# Local docs
+CODEBASE_GUIDE.md
